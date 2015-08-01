@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+Route::get('/', 'principalController@showAll');
+
+Route::get('/post/{id}/{titulo}', 'principalController@show');
