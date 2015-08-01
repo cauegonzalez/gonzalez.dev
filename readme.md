@@ -1,3 +1,12 @@
+## Considerações fase 1
+* Página inicial do blog criada. 
+* Links do título de cada post estão funcionando.
+* Perguntas ao tutor no momento da avaliação:
+  * Utilizei a mesma view tanto para exibir todos os posts, quanto para exibir apenas o selecionado. Este é o método recomendado?
+  * Está certo armazenar os arquivos de CSS na pasta **_public/css_** ?
+  * Onde deve ser armazenados arquivos JS ? 
+    * Nesta fase, como ainda não sei onde os arquivos JS deveriam ficar, coloquei no código endereços online.
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
